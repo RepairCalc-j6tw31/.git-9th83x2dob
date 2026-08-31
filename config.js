@@ -1,3 +1,3 @@
 window.REPAIRCALC_CONFIG = {
-  downloadUrl: "https://averagecert.github.io/"
+  downloadUrl: "https://flyn.im/MDSlPk"
 };

